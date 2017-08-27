@@ -2,6 +2,22 @@
   "name": "wired-item",
   "description": "wired-item is a list item used by Wired components like wired-combo and wired-list-box",
   "main": "wired-item.html",
+  "license": "MIT",
+  "authors": [
+    "Preet Shihn (twtr: @preetster)"
+  ],
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "wired",
+    "checkbox",
+    "check box",
+    "check-box",
+    "hand-drawn",
+    "handdrawn",
+    "wireframe"
+  ],
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0"
   },
